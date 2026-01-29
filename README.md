@@ -1,6 +1,6 @@
-# Assembly: Endgame ⚛️
+# 🧩 Guess the Word
 
-**Assembly: Endgame** is an interactive word-guessing game built with **React** and **Vite**. The goal is to guess the hidden programming word within 8 attempts to save the modern programming world from being replaced by Assembly code!
+**Guess the Word** is a modern, interactive word puzzle game built with **React** and **Vite**. The goal is simple: guess the hidden programming-related term within 8 attempts.
 
 🔗 **Live Demo:** [Click here to play](https://Klinti13.github.io/Word)
 
@@ -19,10 +19,3 @@
 - **React Confetti** (Winning celebration)
 - **GitHub Pages** (Deployment)
 
-## 🚀 Setup Locally
-
-To run this project on your machine:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Klinti13/Word.git](https://github.com/Klinti13/Word.git)
