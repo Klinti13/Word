@@ -1,16 +1,28 @@
-# React + Vite
+# Assembly: Endgame ⚛️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Assembly: Endgame** is an interactive word-guessing game built with **React** and **Vite**. The goal is to guess the hidden programming word within 8 attempts to save the modern programming world from being replaced by Assembly code!
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Click here to play](https://Klinti13.github.io/Word)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎮 How to Play
+1. The game selects a random programming-related word.
+2. You start with **2 revealed letters** for help.
+3. Guess the remaining letters using the on-screen keyboard.
+4. Each wrong guess "kills" a modern programming language.
+5. If you make **9 mistakes**, you lose, and Assembly takes over! ☠️
+6. If you guess the word, you win! 🎉
 
-## React Compiler
+## 🛠️ Tech Stack
+- **React.js** (Functional Components, Hooks)
+- **Vite** (Fast build tool)
+- **CSS3** (Responsive design & animations)
+- **React Confetti** (Winning celebration)
+- **GitHub Pages** (Deployment)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Setup Locally
 
-## Expanding the ESLint configuration
+To run this project on your machine:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Klinti13/Word.git](https://github.com/Klinti13/Word.git)
